@@ -1,0 +1,33 @@
+div.container{
+	width: 600px;
+	height: 600px;
+	margin: 0px auto;
+	text-align: center;
+}
+div.bad_result1{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	margin: 10px auto;
+	line-height: 110px;
+	border: 1px solid black;
+}
+div.bad_result2{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	margin: 10px auto;
+	line-height: 110px;
+	border: 1px solid black;
+}
+div.good_result{
+	width: 150px;
+	height: 150px;
+	background-color: green;
+	margin: 10px auto;
+	line-height: 110px;
+	border: 1px solid black;
+}
+p.game_win{
+	margin: 0px;
+}
